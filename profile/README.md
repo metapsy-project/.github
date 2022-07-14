@@ -8,7 +8,6 @@ Metapsy is a research project led by the VU University Amsterdam. The goal of Me
 
 Data and software developed as part of the project is made publically available via the `metapsy-project` organization account, which you can find here.
 
-</br>
 
 ### Repositories 📦
 ---
@@ -17,7 +16,6 @@ All meta-analytic datasets included in the project are released as separate repo
 
 Software developed as part of the project is also provided in repositories of this account; see e.g. [`metapsyData`](https://github.com/metapsy-project/metapsyData) or [`metapsyTools`](https://github.com/metapsy-project/metapsyTools).
 
-</br>
 
 ### Helpful Links 🔗
 ---
