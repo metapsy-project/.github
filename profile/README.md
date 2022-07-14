@@ -1,6 +1,5 @@
 ## Welcome to the Metapsy Project! 👋
 
-</br>
 
 ### About ℹ️
 ---
