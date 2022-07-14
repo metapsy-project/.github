@@ -13,7 +13,9 @@ Data and software developed as part of the project is made publically available 
 ### Repositories 📦
 ---
 
-All meta-analytic datasets included in the project are released as separate repositories here on Github. The name of these repositores always starts with `data-`. Software developed as part of the project is also provided in repositories of this account; see e.g. [`metapsyData`](https://github.com/metapsy-project/metapsyData) or [`metapsyTools`](https://github.com/metapsy-project/metapsyTools).
+All meta-analytic datasets included in the project are released as separate repositories here on Github. The name of these repositores always starts with `data-`. A list of all publically released database repositories can be found [here](https://github.com/search?q=topic%3Adata+org%3Ametapsy-project+fork%3Atrue&type=repositories).
+
+Software developed as part of the project is also provided in repositories of this account; see e.g. [`metapsyData`](https://github.com/metapsy-project/metapsyData) or [`metapsyTools`](https://github.com/metapsy-project/metapsyTools).
 
 </br>
 
